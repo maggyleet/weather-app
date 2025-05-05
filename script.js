@@ -1,4 +1,4 @@
-const API_KEY = "WQWBDZJHXSTR5D34NHMPGC3UB";
+const API_KEY = "MRCKCA9CSCPD9DJNCDTKQBWR5";
 let useCelsius = false;
 
 document.getElementById("locationForm").addEventListener("submit", async (e) => {
