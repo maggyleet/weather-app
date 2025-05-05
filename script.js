@@ -1,4 +1,4 @@
-const API_KEY = "MRCKCA9CSCPD9DJNCDTKQBWR5";
+const API_KEY = "MRCKCA9CSCPD9DJNCDTKQBWR5"; //Replace with your actual API key
 let useCelsius = false;
 
 document.getElementById("locationForm").addEventListener("submit", async (e) => {
