@@ -17,7 +17,7 @@ document.getElementById("locationForm").addEventListener("submit", async (e) => 
         displayWeather(processed);
         updateBackground(processed.condition);
     } else {
-        document.getElementById("weatherDisplay").innerText = "Weather not found. Please Enter valid city!";
+        document.getElementById("weatherDisplay").innerText = "Weather not found. Please enter valid city!";
     }
 });
 
